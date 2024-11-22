@@ -1,3 +1,3 @@
 ## :moneybag: PROJET DE DONATION SUR BLOCKCHAIN
 ### :globe_with_meridians: Introduction
-Dans ce projet on travaillé sur un projet blockchain qui consiste a faire des donations depuis des organization aux autre sans charité 
+Dans le cadre de ce projet, nous avons travaillé sur une solution basée sur la blockchain visant à faciliter les dons effectués par des organisations en faveur des pays souffrant de famine. Nous avons également développé une interface web permettant de gérer efficacement ce processus.
