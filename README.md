@@ -3,7 +3,7 @@
 <p>Dans le cadre de ce projet, nous avons travaillé sur une solution basée sur la blockchain visant à faciliter les dons effectués par des organisations en faveur des pays souffrant de famine. Nous avons également développé une interface web permettant de gérer efficacement ce processus.</p>
 
 ### :dart: Objectif du projet
-<br>1. Faciliter les donations internationales :</br>
+<b>1. Faciliter les donations internationales :</b>
 Simplifier et accélérer le processus de dons entre les organisations et les pays dans le besoin.
 
 2. Assurer la transparence des transactions :
