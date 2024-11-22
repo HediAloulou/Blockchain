@@ -18,3 +18,9 @@ Développer une interface web intuitive pour enregistrer, suivre, et gérer les 
 <b>5. Réduire les coûts administratifs :</b>
 Éliminer les intermédiaires coûteux grâce à une plateforme décentralisée et sécurisée.
 
+### :computer: Instalaltion
+#### Ganache:
+Installez la version CLI via npm :
+```bash
+npm install -g ganache
+```
