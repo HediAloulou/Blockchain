@@ -19,8 +19,14 @@ Développer une interface web intuitive pour enregistrer, suivre, et gérer les 
 Éliminer les intermédiaires coûteux grâce à une plateforme décentralisée et sécurisée.
 
 ### :computer: Instalaltion
-#### Ganache:
+#### HardHat prerequisties
+##### Check node and npm are already installed on a linux machine
+```bash
+node -v
+npm -v
+```
+##### HardHat installation:
 Installez la version CLI via npm :
 ```bash
-npm install -g ganache
+npm install --save-dev hardhat
 ```
