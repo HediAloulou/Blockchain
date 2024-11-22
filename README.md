@@ -2,7 +2,6 @@
 ### :globe_with_meridians: Introduction
 <p>Dans le cadre de ce projet, nous avons travaillé sur une solution basée sur la blockchain visant à faciliter les dons effectués par des organisations en faveur des pays souffrant de famine. Nous avons également développé une interface web permettant de gérer efficacement ce processus.</p>
 ### :dart: Objectif du projet
----
 
 <b>1. Faciliter les donations internationales :</b>
 Simplifier et accélérer le processus de dons entre les organisations et les pays dans le besoin.
@@ -19,7 +18,6 @@ Développer une interface web intuitive pour enregistrer, suivre, et gérer les 
 <b>5. Réduire les coûts administratifs :</b>
 Éliminer les intermédiaires coûteux grâce à une plateforme décentralisée et sécurisée.
 
----
 ### :computer: Instalaltion
 #### Ganache:
 Installez la version CLI via npm :
