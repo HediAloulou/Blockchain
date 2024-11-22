@@ -6,15 +6,15 @@
 <b>1. Faciliter les donations internationales :</b>
 Simplifier et accélérer le processus de dons entre les organisations et les pays dans le besoin.
 
-2. Assurer la transparence des transactions :
+<b>2. Assurer la transparence des transactions :</b>
 Exploiter la technologie blockchain pour garantir une traçabilité complète des fonds, depuis leur source jusqu'à leur utilisation.
 
-3. Renforcer la confiance des donateurs :
+<b>3. Renforcer la confiance des donateurs :</b>
 Offrir une visibilité sur l’utilisation des donations grâce à des transactions immuables et publiques.
 
-4. Automatiser la gestion des donations :
+<b>4. Automatiser la gestion des donations :</b>
 Développer une interface web intuitive pour enregistrer, suivre, et gérer les contributions des organisations.
 
-5. Réduire les coûts administratifs :
+<b>5. Réduire les coûts administratifs :</b>
 Éliminer les intermédiaires coûteux grâce à une plateforme décentralisée et sécurisée.
 
