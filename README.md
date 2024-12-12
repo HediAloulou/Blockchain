@@ -57,3 +57,4 @@ module.exports = {
 #### Configuration du MetaMask
 - Le premier compte est le client (donor)
 - Le deuxième compte est le serveur
+
