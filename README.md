@@ -56,5 +56,6 @@ module.exports = {
 ```
 #### Configuration du MetaMask
 <h5>On a crée deux compte:
-Le premier compte est le client (donor)
-Le deuxieme compte est le serveur</h5>
+.Le premier compte est le client (donor)
+  
+.Le deuxieme compte est le serveur</h5>
