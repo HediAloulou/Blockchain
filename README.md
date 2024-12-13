@@ -58,8 +58,11 @@ module.exports = {
 };
 ```
 #### Configuration du MetaMask
+
 - La creation d'un network
 - La creattion de deux comptes a fine de simuler la transaction a partir du client vers le serveur
 - Tester la transaction
-- Vous pouvez trouver ce lien drive contenant notre simulation
+
+#### Teste
+- [Regarder la vidéo sur Google Drive](https://drive.google.com/file/d/ID_DU_FICHIER/view)
 
