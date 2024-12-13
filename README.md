@@ -3,6 +3,9 @@
 ### :globe_with_meridians: Introduction
 <p>Dans le cadre de ce projet, nous avons utilisé Ganache pour simuler un environnement blockchain permettant de faciliter les dons effectués par des organisations en faveur des pays souffrant de famine. Nous avons également développé une interface web pour gérer efficacement ce processus.</p>
 
+![462585163_2320338361674036_3330637808289769028_n](https://github.com/user-attachments/assets/63bed02c-9f7b-4f30-9741-61087ebba9a8)
+
+
 ### :dart: Objectif du projet
 
 **1. Faciliter les donations internationales :**  
@@ -55,6 +58,8 @@ module.exports = {
 };
 ```
 #### Configuration du MetaMask
-- Le premier compte est le client (donor)
-- Le deuxième compte est le serveur
+- La creation d'un network
+- La creattion de deux comptes a fine de simuler la transaction a partir du client vers le serveur
+- Tester la transaction
+- Vous pouvez trouver ce lien drive contenant notre simulation
 
