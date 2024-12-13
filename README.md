@@ -45,7 +45,7 @@ npm install -g ganache
 ./ganache-2.7.1-linux-x86_64.AppImage
 ```
 
-#### Configuration du truffle
+##### Configuration du truffle
 ```bash
 module.exports = {
   networks: {
@@ -57,12 +57,12 @@ module.exports = {
   }
 };
 ```
-#### Configuration du MetaMask
+##### Configuration du MetaMask
 
 - La creation d'un network
 - La creattion de deux comptes a fine de simuler la transaction a partir du client vers le serveur
 - Tester la transaction
 
-#### Test
+##### Test
 - [Regarder la vidéo sur Google Drive](https://drive.google.com/file/d/ID_DU_FICHIER/view)
 
