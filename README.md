@@ -63,6 +63,6 @@ module.exports = {
 - La creattion de deux comptes a fine de simuler la transaction a partir du client vers le serveur
 - Tester la transaction
 
-#### Teste
+#### Test
 - [Regarder la vidéo sur Google Drive](https://drive.google.com/file/d/ID_DU_FICHIER/view)
 
